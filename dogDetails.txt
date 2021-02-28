@@ -1,0 +1,7 @@
+My dog details
+
+Name: Rico
+Nickname: young Ricardo
+DOB: 22 Feb 2020
+
+Breed: unkown
